@@ -10,7 +10,8 @@ My career has been developed in a fast paced and result oriented environment whi
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/ofoe-fiergbor-3b181668/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ofoe Fiergbor | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/ofoe-fiergbor-3b181668/"><img align="left" src="https://raw.githubusercontent.com/ofoe-fiergbor/ofoe-fiergbor/main/images/linkedin.png" alt="Ofoe Fiergbor | LinkedIn" width="21px"/></a>
+<a href="mailto:ofoefiergbor16@gmail.com"><img align="left" src="https://raw.githubusercontent.com/ofoe-fiergbor/ofoe-fiergbor/main/images/email.png" alt="Ofoe Fiergbor | Email" width="21px"/></a>
 </br>
 
 ## 💼 Technical Skills
