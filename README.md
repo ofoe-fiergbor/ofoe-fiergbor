@@ -30,11 +30,6 @@ My career has been developed in a fast paced and result oriented environment whi
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 📈 GitHub Stats 
-[![Ofoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofoe-fiergbor&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/ofoe-fiergbor)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofoe-fiergbor&layout=compact)](https://github.com/ofoe-fiergbor)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
